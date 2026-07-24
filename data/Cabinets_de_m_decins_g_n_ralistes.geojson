@@ -1,0 +1,2387 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.70097,
+          46.979394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100620458",
+        "Nom": "Veauvy",
+        "Pr\u00e9nom": "Cindy",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "Avenue Kennedy",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4234,
+          47.42701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100310886",
+        "Nom": "Gallet",
+        "Pr\u00e9nom": "Etienne",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "2 Rue de la Plaine",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.529738,
+          47.669049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101354131",
+        "Nom": "Maisonneuve",
+        "Pr\u00e9nom": "Elise",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "4 Rue de l\u2019Etang",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.027552,
+          46.967536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100387066",
+        "Nom": "Bruneau",
+        "Pr\u00e9nom": "Claire",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "19 Rue de la R\u00e9publique",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.77447,
+          47.584002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101875929",
+        "Nom": "Picard",
+        "Pr\u00e9nom": "Apolline",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "14 Rue de la Tour Carr\u00e9e",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.492502,
+          47.231501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101515814",
+        "Nom": "Le Grand",
+        "Pr\u00e9nom": "Matthieu-Simon",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "14 Rue du Foyer Logements",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.968304,
+          47.905972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100739142",
+        "Nom": "Dumas",
+        "Pr\u00e9nom": "Adrien",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "25 Rue de Mond\u00e9sir",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.599654,
+          48.412654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002098282",
+        "Nom": "Andrieu",
+        "Pr\u00e9nom": "Stephane",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "2 Rue du Docteur Bouclet",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.208335,
+          46.819119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10004974332",
+        "Nom": "Mathieu",
+        "Pr\u00e9nom": "Anne",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "4bis Rue du Ch\u00e2teau",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.907525,
+          47.589896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100972826",
+        "Nom": "Pueyo",
+        "Pr\u00e9nom": "Segolene",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "4 Rue du Four Brul\u00e9",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.045276,
+          48.55916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101879830",
+        "Nom": "Foucat-Michel",
+        "Pr\u00e9nom": "Anne-Claire",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "7 Chemin de la Hutte",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.480826,
+          47.766035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002081478",
+        "Nom": "Bouthegourd",
+        "Pr\u00e9nom": "Nathalie",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "90 Rue de Gien",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.482227,
+          48.443421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10001998615",
+        "Nom": "Fauchier",
+        "Pr\u00e9nom": "Veronique",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "6 Rue du Docteur Michel Gibert",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.50459,
+          48.444919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100111185",
+        "Nom": "Rousseau",
+        "Pr\u00e9nom": "Claire",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "90 Rue du Souvenir Fran\u00e7ais",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.659548,
+          47.349715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100920791",
+        "Nom": "Duquennoy",
+        "Pr\u00e9nom": "Paul",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "5 Rue Laennec",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.759955,
+          48.5157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10001629178",
+        "Nom": "Woillard",
+        "Pr\u00e9nom": "Caroline",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "10 Rue Guy de la Vasselais",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.734112,
+          47.362932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100868099",
+        "Nom": "Alary",
+        "Pr\u00e9nom": "Elodie",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "67 Avenue Henri Adam",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.923114,
+          47.386675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101327145",
+        "Nom": "Godard",
+        "Pr\u00e9nom": "Remi",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "1 Rue de l\u2019Eglise",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.554209,
+          47.274601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101544061",
+        "Nom": "Ledru",
+        "Pr\u00e9nom": "Laura",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "Place du General de Gaulle",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.659548,
+          47.349715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100914877",
+        "Nom": "Merillou",
+        "Pr\u00e9nom": "Florence",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "5 Rue Laennec",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.907525,
+          47.589896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002039393",
+        "Nom": "Duval",
+        "Pr\u00e9nom": "Philippe",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "4 Rue du Four Brul\u00e9",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.699251,
+          47.331954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100673374",
+        "Nom": "Aufrere",
+        "Pr\u00e9nom": "Pierre",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "10 Rue des Fr\u00e8res Lumi\u00e8re",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.060411,
+          47.802391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100743870",
+        "Nom": "Darlot",
+        "Pr\u00e9nom": "Amelie",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "9bis Rue Robert Barillet",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.773609,
+          47.882715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002072725",
+        "Nom": "Nicolas",
+        "Pr\u00e9nom": "Patrick",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "11bis Rue du Ch\u00e2teau d\u2019Eau",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.362579,
+          47.013527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100631828",
+        "Nom": "Clavier",
+        "Pr\u00e9nom": "Aurelien",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "Rue du Champ du Puits",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.084185,
+          47.232539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100427656",
+        "Nom": "Rahmani",
+        "Pr\u00e9nom": "Yacine",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "Rue des Etablissements Merlin",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.681307,
+          47.391765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002038411",
+        "Nom": "Ribreau-Cadenne",
+        "Pr\u00e9nom": "Marie-Helene",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "22bis Place Gaston Paillhou",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.968304,
+          47.905972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10003729646",
+        "Nom": "Wittke",
+        "Pr\u00e9nom": "Laurence",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "25 Rue de Mond\u00e9sir",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.758816,
+          47.820144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002098183",
+        "Nom": "Cordier-Petitprez",
+        "Pr\u00e9nom": "Gwenaelle",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "1 All\u00e9e du Docteur Roland Delastre",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.121468,
+          47.865785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10003145710",
+        "Nom": "Revel",
+        "Pr\u00e9nom": "Olivier",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "50 Grande Rue",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.405346,
+          47.124707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100461846",
+        "Nom": "Rube",
+        "Pr\u00e9nom": "Delphine",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "6 Place Jacqueline Et Jean Lerat",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.31295,
+          48.470529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10001752087",
+        "Nom": "Le Lan",
+        "Pr\u00e9nom": "Loic",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "2 Rue de la Gare",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.906541,
+          47.905909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101534930",
+        "Nom": "Abou Mrad Fricquegnon",
+        "Pr\u00e9nom": "Karim",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "75 Boulevard Alexandre Martin",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.399713,
+          47.318376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100241909",
+        "Nom": "Gery",
+        "Pr\u00e9nom": "Mathilde",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "27 Rue Principale",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.992868,
+          47.124927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002034196",
+        "Nom": "Dehayes",
+        "Pr\u00e9nom": "Philippe",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "16bis Avenue des Bas Clos",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.672604,
+          47.325155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100495802",
+        "Nom": "Marchais",
+        "Pr\u00e9nom": "David",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "106 Rue des Jardins",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.77447,
+          47.584002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002036423",
+        "Nom": "Werquin",
+        "Pr\u00e9nom": "Jean-Michel",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "14 Rue de la Tour Carr\u00e9e",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4234,
+          47.42701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100584985",
+        "Nom": "Becker",
+        "Pr\u00e9nom": "Clement",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "2 Rue de la Plaine",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.490118,
+          47.619141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10004390174",
+        "Nom": "Borduselu",
+        "Pr\u00e9nom": "Ileana-Matilda",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "4 Rue du 8 Mai",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.164508,
+          46.988793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100967180",
+        "Nom": "Galland",
+        "Pr\u00e9nom": "Lorraine",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "13 Avenue de Verdun",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.888182,
+          47.91059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100048056",
+        "Nom": "Sauvageot",
+        "Pr\u00e9nom": "Aurelie",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "12 Rue Jacques Hanappier",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.621988,
+          47.706963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101545233",
+        "Nom": "Pasdeloup",
+        "Pr\u00e9nom": "Emeline",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "Rue Jean Mermoz",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.926372,
+          47.930386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100556033",
+        "Nom": "Collin",
+        "Pr\u00e9nom": "Emeline",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "Rue des Foss\u00e9s",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.302802,
+          47.728383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100905438",
+        "Nom": "Chevalier",
+        "Pr\u00e9nom": "Lucie",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "9 Place de l\u2019Eglise",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.968843,
+          47.831367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101684651",
+        "Nom": "Iemmolo",
+        "Pr\u00e9nom": "Ines",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "43 Rue du 8 Mai 1945",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.405394,
+          47.32594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002092053",
+        "Nom": "Joly",
+        "Pr\u00e9nom": "Lydie",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "2 Rue Jeanne d\u2019Arc",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.958575,
+          47.858428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101575347",
+        "Nom": "Patin",
+        "Pr\u00e9nom": "Pauline",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "Saint-Cyr-en-Val",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.817847,
+          47.377758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100997708",
+        "Nom": "Jacob",
+        "Pr\u00e9nom": "Amandine",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "3 Rue Bernard Maris",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.485636,
+          48.441669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100331361",
+        "Nom": "Tiano",
+        "Pr\u00e9nom": "Pierre-Yves",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "35 Rue de Chateaudun",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.18507,
+          47.204675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101749140",
+        "Nom": "Guichard",
+        "Pr\u00e9nom": "Vincent",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "12 Rue des Roches",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.102816,
+          47.915536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100611564",
+        "Nom": "Evrard",
+        "Pr\u00e9nom": "Elise",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "1 Avenue P.A. Ponson du Terrail (RD 709)",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.437401,
+          47.486795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002094554",
+        "Nom": "Stroinski",
+        "Pr\u00e9nom": "Frederic",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "10 Rue Etienne Soyer",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.800411,
+          47.536522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100971430",
+        "Nom": "Jolivard",
+        "Pr\u00e9nom": "Marie",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "5 Rue du 11 Novembre",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.31833,
+          47.589784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100294908",
+        "Nom": "Chambenoit",
+        "Pr\u00e9nom": "Benjamin",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "46 Rue Bossuet",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.361651,
+          48.424494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101246212",
+        "Nom": "Martin",
+        "Pr\u00e9nom": "Claire",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "2a Rue de la Plaine",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.395902,
+          47.081631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10001982585",
+        "Nom": "Lanotte",
+        "Pr\u00e9nom": "Walter",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "1 Place de la Pr\u00e9fecture",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.777009,
+          46.862731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100878569",
+        "Nom": "Gugoasa",
+        "Pr\u00e9nom": "Liviu-Ionut",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "36 Rue de la Gare",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.465896,
+          47.500475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10005176754",
+        "Nom": "Renoux",
+        "Pr\u00e9nom": "Cecile",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "36 Route de Romorantin",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.253324,
+          46.997775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100912632",
+        "Nom": "Colombier",
+        "Pr\u00e9nom": "Luc",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "1 Rue de la Solidarit\u00e9",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.247323,
+          47.164775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100712958",
+        "Nom": "Lamblin",
+        "Pr\u00e9nom": "Simon",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "11 Rue du 11 Novembre",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.120035,
+          46.99327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100912632",
+        "Nom": "Colombier",
+        "Pr\u00e9nom": "Luc",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "36bis Rue du Moulin",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.682825,
+          47.426152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002087483",
+        "Nom": "Malhaire",
+        "Pr\u00e9nom": "Mickael",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "22 Rue du Maine",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.68307,
+          47.407485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100909596",
+        "Nom": "Lecat",
+        "Pr\u00e9nom": "Geoffroy",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "13 Rue Ernest Huard",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.374359,
+          47.761848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002083136",
+        "Nom": "Rey",
+        "Pr\u00e9nom": "Philippe",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "19 Route de Cerdon",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.418069,
+          47.116148
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100483287",
+        "Nom": "Baudinaud",
+        "Pr\u00e9nom": "Gaelle",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "2 Rue de la Sablonniere",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.907633,
+          47.85591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101554813",
+        "Nom": "Ribollet",
+        "Pr\u00e9nom": "Francois",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "10 Rue du Docteur Chapelet",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.822653,
+          48.320047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101742715",
+        "Nom": "Petit",
+        "Pr\u00e9nom": "Pauline",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "37 Rue du Ch\u00e2teau",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.922235,
+          47.884128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10005160980",
+        "Nom": "Puygrenier",
+        "Pr\u00e9nom": "Severine",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "59 Rue des Varennes",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.077295,
+          47.27753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101465028",
+        "Nom": "Moreira",
+        "Pr\u00e9nom": "Adrien",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "62 Rue  aux Loups",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.710063,
+          48.266274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100908382",
+        "Nom": "Passave",
+        "Pr\u00e9nom": "Maeva",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "2 Rue Denis Papin",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.710063,
+          48.266274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10004023833",
+        "Nom": "Cerceau",
+        "Pr\u00e9nom": "Jessica",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "2 Rue Denis Papin",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.938507,
+          48.739973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101318771",
+        "Nom": "Jacquet",
+        "Pr\u00e9nom": "Gaelle",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "Rue Henri 1er Beauclerc",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.07331,
+          47.530503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102213617",
+        "Nom": "Martin",
+        "Pr\u00e9nom": "Louise",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "16 Grande Rue",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.071776,
+          47.640915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002155256",
+        "Nom": "Serin",
+        "Pr\u00e9nom": "Michel",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "9 Place des B\u00e9n\u00e9dictines",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.07331,
+          47.530503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002155256",
+        "Nom": "Serin",
+        "Pr\u00e9nom": "Michel",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "16 Grande Rue",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.095727,
+          47.887664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10000715051",
+        "Nom": "Hoffmann",
+        "Pr\u00e9nom": "Clara",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "5 Route de Prunoy",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.35931,
+          49.011591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100904829",
+        "Nom": "Richard",
+        "Pr\u00e9nom": "Florent",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "42 Rue Charles Ledoux",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.5359,
+          46.8149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101189636",
+        "Nom": "Khuat",
+        "Pr\u00e9nom": "Pascal",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "1 Rue de Madame",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.073157,
+          47.779578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002240256",
+        "Nom": "Agricole",
+        "Pr\u00e9nom": "Pascal",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "30 Rue Pesant et Bombert",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.992324,
+          48.349186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10000863877",
+        "Nom": "D Humieres",
+        "Pr\u00e9nom": "Bertrand",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "1bis Rue des Ffi",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.753848,
+          46.643258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002721438",
+        "Nom": "Rigaux",
+        "Pr\u00e9nom": "Jean-Christophe",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "17 Place de la Mairie",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.938823,
+          48.571598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10000825942",
+        "Nom": "Imbs",
+        "Pr\u00e9nom": "Sylvain",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "43 Rue Charles de Gaulle",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.09419,
+          47.244778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10100340743",
+        "Nom": "Herault",
+        "Pr\u00e9nom": "Julien",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "32 Rue du Dolmen",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.222509,
+          46.975766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101606217",
+        "Nom": "Simonnot",
+        "Pr\u00e9nom": "Michael",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "22 Rue de la Poste",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.671148,
+          48.771494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10003713418",
+        "Nom": "Richter",
+        "Pr\u00e9nom": "Gudrun",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "1 Rue du Parc",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.406036,
+          46.898942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101537891",
+        "Nom": "Brunel",
+        "Pr\u00e9nom": "Julien",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "14 Avenue Jules Edouard M\u00e9nard",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.215442,
+          46.349545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10002929064",
+        "Nom": "Dagard",
+        "Pr\u00e9nom": "Christine",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "4 Rue du Limousin",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.09419,
+          47.244778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10101552825",
+        "Nom": "Terlain",
+        "Pr\u00e9nom": "Segolene",
+        "Profession": "M\u00e9decin g\u00e9n\u00e9raliste",
+        "Adresse": "32 Rue du Dolmen",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#ff2bd6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    }
+  ]
+}

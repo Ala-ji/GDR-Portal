@@ -1,0 +1,1928 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.916774,
+          47.156942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10108595728",
+        "Nom": "Couillard",
+        "Pr\u00e9nom": "Sophie",
+        "Profession": "Infirmier",
+        "Adresse": "2 Rue Pauline Lapautre",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.361651,
+          48.424494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105460017",
+        "Nom": "Bardy",
+        "Pr\u00e9nom": "Nathalie",
+        "Profession": "Infirmier",
+        "Adresse": "2a Rue de la Plaine",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.364681,
+          48.732521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102793873",
+        "Nom": "Mamie",
+        "Pr\u00e9nom": "Rackia",
+        "Profession": "Infirmier",
+        "Adresse": "13 Place du Vieux Pr\u00e9",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.39009,
+          48.187428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102847430",
+        "Nom": "Caillaud",
+        "Pr\u00e9nom": "Aurelie",
+        "Profession": "Infirmier",
+        "Adresse": "1 Rue de Beauce",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.254541,
+          47.17178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103479092",
+        "Nom": "Respaud",
+        "Pr\u00e9nom": "Melanie",
+        "Profession": "Infirmier",
+        "Adresse": "5 Place Pierre Robbe",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.352867,
+          47.264964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102574851",
+        "Nom": "Murzeau",
+        "Pr\u00e9nom": "Anne",
+        "Profession": "Infirmier",
+        "Adresse": "12 Rue de la Buronni\u00e8re",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.693372,
+          47.40228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10106623134",
+        "Nom": "Baudouin",
+        "Pr\u00e9nom": "Marie",
+        "Profession": "Infirmier",
+        "Adresse": "3 Rue du Vieux Pont",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.938098,
+          47.225694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105239825",
+        "Nom": "Gomme",
+        "Pr\u00e9nom": "Lucie",
+        "Profession": "Infirmier",
+        "Adresse": "6 Place des Tilleuls Claude Debeda",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.67074,
+          48.607375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105039423",
+        "Nom": "Sonder",
+        "Pr\u00e9nom": "Melanie",
+        "Profession": "Infirmier",
+        "Adresse": "64 Rue du Prieur\u00e9 Saint-thomas",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.549052,
+          47.064214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102506267",
+        "Nom": "Laratte",
+        "Pr\u00e9nom": "Annie-Laure",
+        "Profession": "Infirmier",
+        "Adresse": "1 Place Michel Camboulives",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.665706,
+          47.432264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10104314835",
+        "Nom": "Pochet-Morisset",
+        "Pr\u00e9nom": "Melanie",
+        "Profession": "Infirmier",
+        "Adresse": "3 Boulevard Alfred Nobel",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.697946,
+          48.044784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105414337",
+        "Nom": "Carvalho",
+        "Pr\u00e9nom": "Stephanie",
+        "Profession": "Infirmier",
+        "Adresse": "9 Place de la Liberte",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.179292,
+          47.34284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102770798",
+        "Nom": "Cuenot",
+        "Pr\u00e9nom": "Vincent",
+        "Profession": "Infirmier",
+        "Adresse": "8 Rue Basse de Nanteuil",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.566026,
+          47.19484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105476286",
+        "Nom": "Lebre",
+        "Pr\u00e9nom": "Sylvain",
+        "Profession": "Infirmier",
+        "Adresse": "13 Route de Bourges",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.552119,
+          48.512128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10106621047",
+        "Nom": "Coispeau",
+        "Pr\u00e9nom": "Severine",
+        "Profession": "Infirmier",
+        "Adresse": "6 Avenue de la Gare",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.777009,
+          46.862731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10104333413",
+        "Nom": "Cluzel Gallienne",
+        "Pr\u00e9nom": "Cecilia",
+        "Profession": "Infirmier",
+        "Adresse": "36 Rue de la Gare",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.446214,
+          47.558547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102847463",
+        "Nom": "Joyeux",
+        "Pr\u00e9nom": "Anne-Laure",
+        "Profession": "Infirmier",
+        "Adresse": "10 Boulevard de la R\u00e9publique",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.232917,
+          47.990175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102398475",
+        "Nom": "Hiel",
+        "Pr\u00e9nom": "Caroline",
+        "Profession": "Infirmier",
+        "Adresse": "36 Rue du Docteur Teyssier",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.566026,
+          47.19484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102364444",
+        "Nom": "Leredde",
+        "Pr\u00e9nom": "Marie-Madeleine",
+        "Profession": "Infirmier",
+        "Adresse": "13 Route de Bourges",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.927063,
+          47.929815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10106819633",
+        "Nom": "Wurm",
+        "Pr\u00e9nom": "Valerie",
+        "Profession": "Infirmier",
+        "Adresse": "67 Rue des Peupliers",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.686428,
+          46.972101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102664462",
+        "Nom": "Pierre",
+        "Pr\u00e9nom": "Christelle",
+        "Profession": "Infirmier",
+        "Adresse": "2 Rue de la Chaume d\u2019En-bas",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.305292,
+          47.810655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105413495",
+        "Nom": "Hodeau",
+        "Pr\u00e9nom": "Virginie",
+        "Profession": "Infirmier",
+        "Adresse": "17 Avenue de l\u2019Abbaye",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.096358,
+          47.1816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105400575",
+        "Nom": "Faichaud",
+        "Pr\u00e9nom": "Jerome",
+        "Profession": "Infirmier",
+        "Adresse": "35 Rue des Cypres",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.756916,
+          47.257666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102875555",
+        "Nom": "Vinadelle",
+        "Pr\u00e9nom": "Pauline",
+        "Profession": "Infirmier",
+        "Adresse": "6 Rue du 8 Mai 1945",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.702045,
+          46.813141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102438750",
+        "Nom": "Gingand",
+        "Pr\u00e9nom": "Eddy",
+        "Profession": "Infirmier",
+        "Adresse": "2 Rue de la confection",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.703095,
+          47.397035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103720842",
+        "Nom": "Plaza",
+        "Pr\u00e9nom": "Rachel",
+        "Profession": "Infirmier",
+        "Adresse": "125 Rue Blanqui",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.314973,
+          47.011602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10106642282",
+        "Nom": "Caicoya",
+        "Pr\u00e9nom": "Ornella",
+        "Profession": "Infirmier",
+        "Adresse": "34 Route de Loudun",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.844257,
+          47.831694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102434163",
+        "Nom": "Ricci",
+        "Pr\u00e9nom": "Antony",
+        "Profession": "Infirmier",
+        "Adresse": "8 Chemin de la Messe",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.776698,
+          47.364336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103116686",
+        "Nom": "Douard",
+        "Pr\u00e9nom": "Tatiana",
+        "Profession": "Infirmier",
+        "Adresse": "4 Rue de la Bergerie",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.488184,
+          47.096564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105411861",
+        "Nom": "Button",
+        "Pr\u00e9nom": "Christelle",
+        "Profession": "Infirmier",
+        "Adresse": "29 Rue du Docteur Schweitzer",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.769359,
+          47.990941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102729786",
+        "Nom": "Feret",
+        "Pr\u00e9nom": "Celine",
+        "Profession": "Infirmier",
+        "Adresse": "6 Rue des \u00c9glantines",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.665706,
+          47.432264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103713136",
+        "Nom": "Morisset",
+        "Pr\u00e9nom": "Florent",
+        "Profession": "Infirmier",
+        "Adresse": "3 Boulevard Alfred Nobel",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.697149,
+          48.044371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10107828989",
+        "Nom": "Chaline",
+        "Pr\u00e9nom": "Sandra",
+        "Profession": "Infirmier",
+        "Adresse": "1 Rue du Docteur Pierre Legris",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.264914,
+          47.94865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103919923",
+        "Nom": "Fabie",
+        "Pr\u00e9nom": "Cecile",
+        "Profession": "Infirmier",
+        "Adresse": "156 Route de Bois le Roi",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.00862,
+          47.922914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102637245",
+        "Nom": "Hardy",
+        "Pr\u00e9nom": "Emmanuel",
+        "Profession": "Infirmier",
+        "Adresse": "5 Place du Centre Bourg",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.926372,
+          47.930386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105080112",
+        "Nom": "Salgueiro",
+        "Pr\u00e9nom": "Celina",
+        "Profession": "Infirmier",
+        "Adresse": "Rue des Foss\u00e9s",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.365102,
+          47.82908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102616249",
+        "Nom": "Vaillant",
+        "Pr\u00e9nom": "Julie",
+        "Profession": "Infirmier",
+        "Adresse": "6 Rue du Val",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.984565,
+          48.138316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105455777",
+        "Nom": "Barda",
+        "Pr\u00e9nom": "Vanessa",
+        "Profession": "Infirmier",
+        "Adresse": "92 Rue du G\u00e9n\u00e9ral Leclerc",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4234,
+          47.42701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103832720",
+        "Nom": "Lemoine",
+        "Pr\u00e9nom": "Myriam",
+        "Profession": "Infirmier",
+        "Adresse": "2 Rue de la Plaine",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.651473,
+          47.034056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10107711466",
+        "Nom": "Poiraud",
+        "Pr\u00e9nom": "Severine",
+        "Profession": "Infirmier",
+        "Adresse": "1 Rue de la Septaine",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.679993,
+          47.37823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105404460",
+        "Nom": "Puysegur",
+        "Pr\u00e9nom": "Agnes",
+        "Profession": "Infirmier",
+        "Adresse": "157 Rue St\u00e9phane Pitard",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.326933,
+          48.02302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102445839",
+        "Nom": "Duverger-Bourdiec",
+        "Pr\u00e9nom": "Helene",
+        "Profession": "Infirmier",
+        "Adresse": "Place Saint Sauveur",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.420082,
+          48.746548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102886370",
+        "Nom": "Brunie",
+        "Pr\u00e9nom": "Charline",
+        "Profession": "Infirmier",
+        "Adresse": "4 Rue Victor Hugo",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.872555,
+          47.882957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103279997",
+        "Nom": "Moreau",
+        "Pr\u00e9nom": "Charline",
+        "Profession": "Infirmier",
+        "Adresse": "134 Route de Saint-Mesmin",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.354724,
+          48.419221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105412463",
+        "Nom": "Goimbault",
+        "Pr\u00e9nom": "Christine",
+        "Profession": "Infirmier",
+        "Adresse": "6 Place de la Laiterie",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.020388,
+          47.698346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102823290",
+        "Nom": "Ciras",
+        "Pr\u00e9nom": "Marc",
+        "Profession": "Infirmier",
+        "Adresse": "12 Route des Moynards",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.994822,
+          47.32752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105526882",
+        "Nom": "Grias",
+        "Pr\u00e9nom": "Fabrice",
+        "Profession": "Infirmier",
+        "Adresse": "1 Avenue de l\u2019Europe",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.699352,
+          47.418745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10107547597",
+        "Nom": "Correia",
+        "Pr\u00e9nom": "Quentin",
+        "Profession": "Infirmier",
+        "Adresse": "29 Rue Daniel Mayer",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.031278,
+          47.025777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102840864",
+        "Nom": "Le Gall",
+        "Pr\u00e9nom": "Mickael",
+        "Profession": "Infirmier",
+        "Adresse": "12 Grande Rue",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.701046,
+          46.802443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102411401",
+        "Nom": "Doucet",
+        "Pr\u00e9nom": "Sylvie",
+        "Profession": "Infirmier",
+        "Adresse": "65 Rue Montaigne",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.632073,
+          48.26685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102348348",
+        "Nom": "Gauthier",
+        "Pr\u00e9nom": "Maud",
+        "Profession": "Infirmier",
+        "Adresse": "3 Rue du Bois des Saules",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.265774,
+          48.145395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102730578",
+        "Nom": "Coycault",
+        "Pr\u00e9nom": "Thomas",
+        "Profession": "Infirmier",
+        "Adresse": "16 Rue Saint Lubin d\u2019Isigny",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.208335,
+          46.819119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102414603",
+        "Nom": "Salle",
+        "Pr\u00e9nom": "Antoine",
+        "Profession": "Infirmier",
+        "Adresse": "4bis Rue du Ch\u00e2teau",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.985218,
+          47.413879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102433124",
+        "Nom": "Denyse",
+        "Pr\u00e9nom": "Fabien",
+        "Profession": "Infirmier",
+        "Adresse": "18 Quai Charles Guinot",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -0.077295,
+          47.27753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102432779",
+        "Nom": "Picardat",
+        "Pr\u00e9nom": "Beatrice",
+        "Profession": "Infirmier",
+        "Adresse": "62 Rue  aux Loups",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.010627,
+          48.527025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102792305",
+        "Nom": "Trochereau",
+        "Pr\u00e9nom": "Elodie",
+        "Profession": "Infirmier",
+        "Adresse": "1 Place Bad Wiessee",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.375679,
+          48.394273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105425283",
+        "Nom": "Lemesle",
+        "Pr\u00e9nom": "Christophe",
+        "Profession": "Infirmier",
+        "Adresse": "3 Rue de la Ferte Alais",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.154236,
+          48.434042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105439193",
+        "Nom": "Tarbouriech",
+        "Pr\u00e9nom": "Sophie",
+        "Profession": "Infirmier",
+        "Adresse": "45 Boulevard Henri IV",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.087846,
+          47.00897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105819568",
+        "Nom": "Rabier",
+        "Pr\u00e9nom": "Carole",
+        "Profession": "Infirmier",
+        "Adresse": "3 Avenue de Touraine",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.994529,
+          48.348859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105801368",
+        "Nom": "Mbele",
+        "Pr\u00e9nom": "Sully",
+        "Profession": "Infirmier",
+        "Adresse": "4 Place de l\u2019Orme",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.406036,
+          46.898942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103691985",
+        "Nom": "Tibuleux",
+        "Pr\u00e9nom": "Adelaine",
+        "Profession": "Infirmier",
+        "Adresse": "14 Avenue Jules Edouard M\u00e9nard",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.59847,
+          48.790103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103713128",
+        "Nom": "Lemerre",
+        "Pr\u00e9nom": "Laurence",
+        "Profession": "Infirmier",
+        "Adresse": "2 Rue des Foss\u00e9s",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          2.869032,
+          48.177421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103832431",
+        "Nom": "Cadaut",
+        "Pr\u00e9nom": "Marion",
+        "Profession": "Infirmier",
+        "Adresse": "7 Rue des Foss\u00e9s",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.135668,
+          46.99286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10106293011",
+        "Nom": "Vaillant",
+        "Pr\u00e9nom": "Clemence",
+        "Profession": "Infirmier",
+        "Adresse": "15bis Rue des Montots",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.380875,
+          49.019817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102647012",
+        "Nom": "Colin",
+        "Pr\u00e9nom": "Amelie",
+        "Profession": "Infirmier",
+        "Adresse": "2 Rue Jules Taupin",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.169137,
+          46.995389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102585832",
+        "Nom": "Cherrier",
+        "Pr\u00e9nom": "Caroline",
+        "Profession": "Infirmier",
+        "Adresse": "5 Rue Mademoiselle Bourgeois",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.153835,
+          46.997897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10102486759",
+        "Nom": "Fenayon",
+        "Pr\u00e9nom": "Marie-Claire",
+        "Profession": "Infirmier",
+        "Adresse": "37 Boulevard Victor Hugo",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.462752,
+          48.890236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10104836696",
+        "Nom": "Le Gad",
+        "Pr\u00e9nom": "Aude",
+        "Profession": "Infirmier",
+        "Adresse": "2bis Rue Pasteur",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.480116,
+          46.240949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10104405146",
+        "Nom": "Martin",
+        "Pr\u00e9nom": "Florian",
+        "Profession": "Infirmier",
+        "Adresse": "24 Rue de l\u2019Hermitage",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          0.623245,
+          46.808587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10103033188",
+        "Nom": "Gilet",
+        "Pr\u00e9nom": "Celine",
+        "Profession": "Infirmier",
+        "Adresse": "2bis Rue de l\u2019Eglise",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          3.149891,
+          47.02229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "N\u00b0 RPPS": "10105933005",
+        "Nom": "Hennebelle",
+        "Pr\u00e9nom": "Clelia",
+        "Profession": "Infirmier",
+        "Adresse": "4 Rue Gay - Lussac",
+        "_qgis_class_val": "default",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#14e6f5",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.6,
+          "radius": 7.56,
+          "dashArray": null
+        }
+      }
+    }
+  ]
+}
